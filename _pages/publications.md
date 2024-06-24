@@ -22,7 +22,6 @@ author_profile: true
 
 5. Advergames are more persuasive among different online advertisements.  
 Tara Thomas, **Kanika Tuteja**, Anirban Chowdhury. **HWWE '17**.  
-\[[arXiv](https://arxiv.org/abs/2309.11518), [video](https://www.youtube.com/watch?v=VoqZ2m_eG4k)\]
 
 
 ### Workshops
