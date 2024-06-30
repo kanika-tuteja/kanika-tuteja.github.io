@@ -10,16 +10,11 @@ I recently completed my PhD from the Université de technologie de Troyes, and N
 
 I hold a Master's degree in UX design, a research-based program from MIT Pune, and completed my graduation project as part of the HCI team at Conduent Labs (Erstwhile Xerox Research Centre) under the guidance of [Sitara Shah](https://dl.acm.org/profile/99659305474)  and [Saurabh Srivastava](https://dl.acm.org/profile/81498656208)  where I designed, and implemented an intelligent decision support system for a civic agency that reveals actionable insights to improve commuters experiences.
 
+## Research Interests
+
+My research spans assistive technology, human-computer interaction, design, and social development. I am deeply committed to engaging with individuals with diverse disabilities to explore how technology impacts their daily mobility.
+
 ## Personal Mission
 
 My professional ethos is firmly rooted in user-centric design. Hailing from India, where Hindi is my native language, I adopt the principle 'know your user' (KYU), resonating with the Hindi word 'KYU,' meaning 'why.' This principle guides my belief in the power of working closely with people to understand their needs rather than making assumptions. My experience spans academia and industry. I collaborate with users, government, and NGOs to develop solutions that are not just impactful but also practical and user-centered.
-
-## Research Interests
-
-My research spans assistive technology, human-computer interaction, design, and social development. I am deeply committed to engaging with individuals with diverse disabilities to explore how technology impacts their daily mobility. 
-
-I enjoy hiking and spending time outside in nature in my spare time.
-
-
-
 
