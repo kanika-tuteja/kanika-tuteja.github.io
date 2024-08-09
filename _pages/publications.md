@@ -22,8 +22,8 @@ author_profile: true
 **Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier. <br>
 **ECSCW '23** [Paper](https://dl.eusset.eu/items/48b9ef17-4d03-45bd-b8f0-201f35a91a6c)
 
-5. Advergames are more persuasive among different online advertisements.<br>
-Tara Thomas, **Kanika Tuteja**, Anirban Chowdhury.<br>  
+5. Advergames are more persuasive among different online advertisements. <br>
+Tara Thomas, **Kanika Tuteja**, Anirban Chowdhury. <br>
 **HWWE '17** [Paper](https://www.springerprofessional.de/en/advergames-are-more-persuasive-among-different-online-advertisem/18996298)
 
 
