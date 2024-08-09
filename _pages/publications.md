@@ -27,7 +27,7 @@ Tara Thomas, **Kanika Tuteja**, Anirban Chowdhury. **HWWE '17**.
 ### Workshops
 
 6. Towards a Trajectory Analysis of the Wheelchair Artifact in an Indian Context.  
-**Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier. **CWUAAT 11th Workshop on Universal Access and Assistive Technology**.[Page 30-34](https://api.repository.cam.ac.uk/server/api/core/bitstreams/572d2e4e-3a91-421a-8193-81287d6ab114/content )
+**Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier. **CWUAAT 11th Workshop on Universal Access and Assistive Technology**. [Page 30-34](https://api.repository.cam.ac.uk/server/api/core/bitstreams/572d2e4e-3a91-421a-8193-81287d6ab114/content )
 
 8. Making the Wheelchair Users Present Across Borders: Towards a Trajectory Analysis.  
 **Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier. **A Workshop on Disability Inclusive Remote Co-Design, ASSETS 2022**. [Paper](https://drive.google.com/drive/u/0/folders/1LSkW_OrCP7fYPSeekV7ISPhl2nF8wCJj)
