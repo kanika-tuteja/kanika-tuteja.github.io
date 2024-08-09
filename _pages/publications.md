@@ -16,15 +16,15 @@ author_profile: true
 ### Conferences
 3. Towards a Trajectory Analysis of Wheelchair in an Indian Context. <br> 
 **Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier.<br>
-**GROUP '23**.  [Paper] (https://dl.acm.org/doi/fullHtml/10.1145/3565967.3570975)
+**GROUP '23**.[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3565967.3570975)
 
 5. Configurations of the User in the Trajectory of Wheelchairs in India: Learnings for the Socio-technical Design of Smart Assistive Devices.<br>
 **Kanika Tuteja**, Tommaso Colombino, Matthieu Tixier. <br>
-**ECSCW '23**. [Paper] (https://dl.eusset.eu/items/48b9ef17-4d03-45bd-b8f0-201f35a91a6c)
+**ECSCW '23**. [Paper](https://dl.eusset.eu/items/48b9ef17-4d03-45bd-b8f0-201f35a91a6c)
 
-6. Advergames are more persuasive among different online advertisements. <br>  
+7. Advergames are more persuasive among different online advertisements. <br>  
 Tara Thomas, **Kanika Tuteja**, Anirban Chowdhury. <br>  
- **HWWE '17**. [Paper] (https://www.springerprofessional.de/en/advergames-are-more-persuasive-among-different-online-advertisem/18996298)
+**HWWE '17**. [Paper](https://www.springerprofessional.de/en/advergames-are-more-persuasive-among-different-online-advertisem/18996298)
 
 
 ### Workshops
